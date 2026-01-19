@@ -1,0 +1,283 @@
+{
+  "basics": {
+    "name": "Naoki Kimura",
+    "label": "Ph.D. Candidate & Chief Researcher",
+    "email": "naoki.kimura.ac@gmail.com",
+    "url": "https://nao-ki-mura.com",
+    "summary": "Chief Researcher at LY Research and Ph.D. Candidate at The University of Tokyo. Specializing in Human-Computer Interaction (HCI), Silent Speech Interfaces, and AI-driven input methods. Recipient of Google PhD Fellowship and Microsoft Research Asia Fellowship.",
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Naoki Kimura",
+        "url": "https://scholar.google.com/citations?user=W7Vvs7CzuaYC&hl=en"
+      },
+      {
+        "network": "GitHub",
+        "username": "supernaiter",
+        "url": "https://github.com/supernaiter"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LY Research",
+      "position": "Chief Researcher",
+      "startDate": "2023-04-01",
+      "summary": "Leading advanced research in HCI and AI. (LY Corporation Research, formerly Yahoo! JAPAN Research)"
+    },
+    {
+      "name": "Yahoo! JAPAN Research",
+      "position": "Chief Researcher",
+      "startDate": "2023-01-01",
+      "endDate": "2023-03-31",
+      "summary": "Chief Researcher before merger into LY Corporation."
+    },
+    {
+      "name": "Google Research",
+      "position": "Collaborative Researcher",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Advisor: Dr. Shumin Zhai. Research on mobile text entry and silent speech interfaces."
+    },
+    {
+      "name": "Microsoft Research Asia",
+      "position": "Collaborative Researcher (PhD Fellow)",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Advisor: Dr. Frank Soong. D-CORE program."
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "position": "Visiting Researcher",
+      "startDate": "2019-01-01",
+      "summary": "Contextual Computing Group. Advisor: Prof. Thad Starner. Collaborating on wearable computing and silent speech interfaces."
+    },
+    {
+      "name": "Sony Computer Science Laboratories",
+      "position": "Research Assistant",
+      "startDate": "2018-01-01",
+      "endDate": "2019-12-31",
+      "summary": "Research in HCI and interactive systems."
+    },
+    {
+      "name": "Preferred Networks",
+      "position": "Intern",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-31",
+      "summary": "Developer of Chainer. Advisor: Dr. Fabrice Matulic."
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Tokyo",
+      "area": "Human-Computer Interaction",
+      "studyType": "Ph.D. Candidate",
+      "startDate": "2019-04-01",
+      "endDate": "2025-03-31",
+      "advisor": "Prof. Jun Rekimoto",
+      "summary": "Graduate School of Interdisciplinary Information Studies"
+    },
+    {
+      "institution": "The University of Tokyo",
+      "area": "Applied Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2013-04-01",
+      "endDate": "2019-03-31",
+      "advisor": "Prof. Jun Rekimoto",
+      "summary": "Master's degree with the highest distinction"
+    },
+    {
+      "institution": "The University of Tokyo",
+      "area": "Engineering",
+      "studyType": "B.S.",
+      "endDate": "2013-03-31",
+      "summary": "Bachelor of Science in Engineering"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Microsoft Research Asia Fellowship (D-CORE)",
+      "date": "2020",
+      "awarder": "Microsoft Research Asia"
+    },
+    {
+      "title": "ACM CHI Best Paper Honorable Mention Award",
+      "date": "2019",
+      "awarder": "ACM CHI 2019",
+      "summary": "Top 5% of submissions"
+    },
+    {
+      "title": "Google PhD Fellowship",
+      "date": "2019",
+      "awarder": "Google"
+    },
+    {
+      "title": "ACM CHI Best Paper Honorable Mention Award",
+      "date": "2018",
+      "awarder": "ACM CHI 2018",
+      "summary": "Top 5% of submissions"
+    }
+  ],
+  "grants": [
+    {
+      "title": "JST ACT-X: Frontier of mathematics and information science",
+      "awarder": "JST",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": "$40,000"
+    },
+    {
+      "title": "JSPS Research Fellowships for Young Scientists (DC2)",
+      "awarder": "JSPS",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "$70,000"
+    }
+  ],
+  "scholarships": [
+    {
+      "title": "TOYOTA / Dwango AI Scholarship",
+      "awarder": "TOYOTA / Dwango",
+      "startDate": "2018",
+      "endDate": "2021",
+      "summary": "$40,000"
+    },
+    {
+      "title": "TOYOTA Study Abroad Scholarships",
+      "awarder": "TOYOTA",
+      "date": "2019",
+      "summary": "$50,000"
+    },
+    {
+      "title": "KUMA FOUNDATION Creator Scholarship",
+      "awarder": "KUMA FOUNDATION",
+      "date": "2019",
+      "summary": "$12,000"
+    },
+    {
+      "title": "37th and 38th Leave a Nest Research Award",
+      "awarder": "Leave a Nest",
+      "date": "2018",
+      "summary": "$15,000"
+    }
+  ],
+  "references": [
+    {
+      "name": "Jun Rekimoto",
+      "position": "Professor / Fellow and Deputy Director",
+      "organization": "The University of Tokyo / Sony Computer Science Laboratories",
+      "email": "rekimoto@acm.org"
+    },
+    {
+      "name": "Thad Starner",
+      "position": "Professor / Researcher",
+      "organization": "Contextual Computing Group, Georgia Institute of Technology / Google Research",
+      "email": "thad@gatech.edu",
+      "summary": "Alternative: thadstarner@google.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "3-KEY-INPUT: Exploring the Theoretical Minimum Keys for Text Entry",
+      "publisher": "IEEE ICASSP 2026",
+      "releaseDate": "2026",
+      "summary": "Systematically evaluated text input systems finding that 3 keys with GPT-4o achieve optimal balance."
+    },
+    {
+      "name": "HMDspeller: Fast and Hands-free Text Entry System for Head Mount Displays using Silent Spelling Recognition",
+      "publisher": "CHI EA '23 (CHI 2023)",
+      "releaseDate": "2023",
+      "summary": "Authors: Kei Asano, Naoki Kimura, Jun Rekimoto. Hamburg, Germany."
+    },
+    {
+      "name": "Self-Supervised Approach for Few-shot Hand Gesture Recognition",
+      "publisher": "Adjunct Proceedings of UIST 2022",
+      "releaseDate": "2022",
+      "summary": "Author: Naoki Kimura. 35th Annual ACM Symposium on User Interface Software and Technology."
+    },
+    {
+      "name": "SSR7000: A Synchronized Corpus of Ultrasound Tongue Imaging for End-to-End Silent Speech Recognition",
+      "publisher": "LREC 2022",
+      "releaseDate": "2022",
+      "summary": "Authors: Naoki Kimura, Zixiong Su, Takaaki Saeki, Jun Rekimoto. 12th Conference on Language Resources and Evaluation."
+    },
+    {
+      "name": "SilentSpeller: Towards mobile, hands-free, silent speech text entry using electropalatography",
+      "publisher": "ACM CHI 2022",
+      "releaseDate": "2022",
+      "summary": "Authors: Naoki Kimura, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Alex Olwal, Jun Rekimoto, Thad Starner. New Orleans, USA."
+    },
+    {
+      "name": "Gaze+Lip: Rapid, Expressive interactions Combining Gaze Input and Silent Speech Commands for Hands-free Smart TV Control",
+      "publisher": "ETRA 2021",
+      "releaseDate": "2021",
+      "summary": "Authors: Zixiong Su, Naoki Kimura, Xinlei Zhang, Jun Rekimoto. Online, Germany."
+    },
+    {
+      "name": "Mobile, Hands-free, Silent Speech Texting Using SilentSpeller",
+      "publisher": "ACM CHI 2021 (Interactivity)",
+      "releaseDate": "2021",
+      "summary": "Authors: Naoki Kimura, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Alex Olwal, Jun Rekimoto, Thad Starner. Yokohama, Japan."
+    },
+    {
+      "name": "SonoSpace: Visual Feedback of Timbre with Unsupervised Learning",
+      "publisher": "ACM MM 2020",
+      "releaseDate": "2020",
+      "summary": "Authors: Naoki Kimura, Keisuke Shiro, Yota Takakura, Hiromi Nakamura, Jun Rekimoto. Seattle, USA."
+    },
+    {
+      "name": "End-to-End Deep Learning Speech Recognition Model for Silent Speech Challenge",
+      "publisher": "INTERSPEECH 2020 (Show & Tell)",
+      "releaseDate": "2020",
+      "summary": "Authors: Naoki Kimura, Zixiong Su, Takaaki Saeki. Shanghai, China."
+    },
+    {
+      "name": "TieLent: A Casual Neck-Mounted Lip Movement Capturing Device for Silent Speech Interaction",
+      "publisher": "AVI 2020",
+      "releaseDate": "2020",
+      "summary": "Authors: Naoki Kimura, Kentaro Hayashi, Jun Rekimoto. International Conference on Advanced Visual Interfaces, Italy."
+    },
+    {
+      "name": "SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks",
+      "publisher": "ACM CHI 2019",
+      "releaseDate": "2019",
+      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto. Honorable Mention Award. Glasgow, UK."
+    },
+    {
+      "name": "Deep Dive: Deep-Neural-Network-Based Video Extension for Immersive Head-Mounted Display Experiences",
+      "publisher": "ACM PerDis 2019",
+      "releaseDate": "2019",
+      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto. Palermo, Italy."
+    },
+    {
+      "name": "Eliciting Pen-Holding Postures for General Input with Suitability for EMG Armband Detection",
+      "publisher": "ACM ISS 2019",
+      "releaseDate": "2019",
+      "summary": "Authors: Fabrice Matulic, Brian Vogel, Naoki Kimura, Daniel Vogel. Daejeon, Korea."
+    },
+    {
+      "name": "Expression effects of public service advertisements on intentions to act for global warming",
+      "publisher": "Journal of Cleaner Production",
+      "releaseDate": "2019",
+      "summary": "Authors: Kiyo Kurisu, Naoki Kimura, Keisuke Hanaki. Volume 218, Pages 1045-1054."
+    },
+    {
+      "name": "ExtVision: Augmentation of Visual Experiences with Generation of Context Images for Peripheral Vision Using Deep Neural Network",
+      "publisher": "ACM CHI 2018",
+      "releaseDate": "2018",
+      "summary": "Authors: Naoki Kimura, Jun Rekimoto. Honorable Mention Award. Montreal, Canada."
+    },
+    {
+      "name": "Using Deep-Neural-Network to Extend Videos for Head-Mounted Display Experiences",
+      "publisher": "VRST 2018",
+      "releaseDate": "2018",
+      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto. Tokyo, Japan."
+    },
+    {
+      "name": "Peripheral Image Generation for Peripheral Projection System Using pix2pix",
+      "publisher": "25th Workshop on Interactive Systems and Software (WISS 2017)",
+      "releaseDate": "2017",
+      "summary": "Authors: Naoki Kimura, Jun Rekimoto. Yamanashi, Japan. (Japanese)"
+    }
+  ]
+}
