@@ -2,6 +2,6 @@
 # Emoji are stripped by strip-emoji.lua so LaTeX does not fail.
 
 pdf:
-	pandoc README.md -o README.pdf --pdf-engine=xelatex --lua-filter=strip-emoji.lua -V urlcolor=blue -V linkcolor=blue
+	pandoc README.md -o CV.pdf --pdf-engine=xelatex --lua-filter=strip-emoji.lua -V urlcolor=blue -V linkcolor=blue
 
 .PHONY: pdf

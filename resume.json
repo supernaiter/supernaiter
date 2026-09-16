@@ -178,6 +178,13 @@
   ],
   "publications": [
     {
+      "name": "Rank-Residual Coding with a Shared Decoder: Lossless Low-Bit Communication for Ambiguous-Keyboard AAC",
+      "authors": ["Naoki Kimura"],
+      "publisher": "IEEE SLT 2026",
+      "year": 2026,
+      "status": "accepted"
+    },
+    {
       "name": "3-KEY-INPUT: Exploring the Theoretical Minimum Keys for Text Entry",
       "publisher": "IEEE ICASSP 2026",
       "releaseDate": "2026",

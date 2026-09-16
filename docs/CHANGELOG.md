@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+### 2026-09-16 — SLT 2026 acceptance
+
+- Added Naoki Kimura's "Rank-Residual Coding with a Shared Decoder: Lossless Low-Bit Communication for Ambiguous-Keyboard AAC" to README.md, resume.json, and the regenerated CV.pdf as accepted at IEEE SLT 2026.
+- Acceptance and sole authorship are based on the author's direct update on 2026-09-16; the supplied manuscript carries an anonymous submission header. No publication date, DOI, proceedings pages, or paper URL is asserted.
+- Corrected `make pdf` to regenerate the existing public `CV.pdf` rather than the unlinked `README.pdf`. The README remains the PDF source.
+
 ### Added
 
 - **GitHub Profile Repository (LEO-optimized CV)**

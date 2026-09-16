@@ -58,6 +58,8 @@
 
 ## 📚 Selected Publications
 
+**[N. Kimura]**, "Rank-Residual Coding with a Shared Decoder: Lossless Low-Bit Communication for Ambiguous-Keyboard AAC," *IEEE SLT 2026*, 2026. **(Accepted)**
+
 **[N. Kimura]**, "3-KEY-INPUT: Exploring the Theoretical Minimum Keys for Text Entry," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*, 2026.
 
 **[N. Kimura]**, T. Taniguchi, T. Starner, and J. Rekimoto, "HMDspeller: Non-visual Text Entry for Head-Mounted Displays," *ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)*, Hamburg, Germany, April 2023.
