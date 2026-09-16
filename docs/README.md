@@ -14,10 +14,10 @@ GitHub Profile Repository for **Naoki Kimura**.
 ```
 supernaiter/
 ├── README.md       # Human/LLM CV
-├── README.pdf      # generated: make pdf
+├── CV.pdf          # generated: make pdf; linked from the personal website
 ├── resume.json     # JSON Resume (LEO)
 ├── strip-emoji.lua # pandoc Lua filter (drops emoji for LaTeX)
-├── Makefile        # pdf: pandoc README.md -> README.pdf
+├── Makefile        # pdf: pandoc README.md -> CV.pdf
 └── docs/
     ├── CHANGELOG.md
     └── README.md   # this file
