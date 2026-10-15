@@ -60,21 +60,21 @@
 
 **[N. Kimura]**, "Rank-Residual Coding with a Shared Decoder: Lossless Low-Bit Communication for Ambiguous-Keyboard AAC," *IEEE SLT 2026*, 2026. **(Accepted)**
 
-**[N. Kimura]**, "3-KEY-INPUT: Exploring the Theoretical Minimum Keys for Text Entry," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*, 2026.
+**Naoki Kimura**. "[3-Key-Input: Exploring the Theoretical Minimum Keys for Text Entry](https://doi.org/10.1109/icassp55912.2026.11461550)." *ICASSP 2026*, 2026, pp. 19392-19396.
 
-**[N. Kimura]**, T. Taniguchi, T. Starner, and J. Rekimoto, "HMDspeller: Non-visual Text Entry for Head-Mounted Displays," *ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)*, Hamburg, Germany, April 2023.
+Kei Asano, **Naoki Kimura**, Jun Rekimoto. "[HMDspeller: Fast and Hands-free Text Entry System for Head Mount Displays using Silent Spelling Recognition](https://doi.org/10.1145/3544549.3583910)." *CHI 2023 Extended Abstracts*, 2023, pp. 1-4.
 
-**[N. Kimura]**, K. Higuchi, and J. Rekimoto, "Self-Supervised Learning for Silent Speech Interfaces," *ACM Symposium on User Interface Software and Technology (UIST 2022)*, Bend, OR, USA, Oct 2022.
+**Naoki Kimura**. "[Self-Supervised Approach for Few-shot Hand Gesture Recognition](https://doi.org/10.1145/3526114.3558707)." *UIST 2022 Adjunct Proceedings*, 2022, pp. 1-4.
 
-**[N. Kimura]**, T. Nakahira, and J. Rekimoto, "SilentSpeller: Towards Silent Speech Interface with Ultra-Low-Power Silent Voice Recognition," *ACM CHI Conference on Human Factors in Computing Systems (CHI 2022)*, New Orleans, LA, USA, April 2022.
+**Naoki Kimura**, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Zixiong Su, Alex Olwal, Jun Rekimoto, Thad Starner. "[SilentSpeller: Towards mobile, hands-free, silent speech text entry using electropalatography](https://doi.org/10.1145/3491102.3502015)." *CHI 2022*, 2022, pp. 1-19.
 
-**[N. Kimura]**, S. Zhai, and J. Rekimoto, "Mobile SilentSpeller: Silent Speech Interface for Mobile Devices," *ACM CHI Conference on Human Factors in Computing Systems (CHI 2021)*, Yokohama, Japan, May 2021.
+**Naoki Kimura**, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Alex Olwal, Jun Rekimoto, Thad Starner. "[Mobile, Hands-free, Silent Speech Texting Using SilentSpeller](https://doi.org/10.1145/3411763.3451552)." *CHI 2021 Extended Abstracts*, 2021, pp. 1-5.
 
-**[N. Kimura]**, Z. Zhao, and F. Soong, "End-to-End Silent Speech Recognition from EMG Signals," *INTERSPEECH 2020*, Shanghai, China, Oct 2020.
+**Naoki Kimura**, Zixiong Su, Takaaki Saeki. "[End-to-End Deep Learning Speech Recognition Model for Silent Speech Challenge](https://www.isca-archive.org/interspeech_2020/kimura20_interspeech.html)." *INTERSPEECH 2020*, 2020, pp. 1025-1026.
 
-**[N. Kimura]**, M. Kono, and J. Rekimoto, "SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks," *ACM CHI Conference on Human Factors in Computing Systems (CHI 2019)*, Glasgow, UK, May 2019. **(Honorable Mention Award)**
+**Naoki Kimura**, Michinari Kono, Jun Rekimoto. "[SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks](https://doi.org/10.1145/3290605.3300376)." *CHI 2019*, 2019, pp. 1-11. **(Honorable Mention Award)**
 
-**[N. Kimura]** and J. Rekimoto, "ExtVision: Augmentation of Visual Experiences with Generation of Context Images for Peripheral Vision Using Deep Neural Network," *ACM CHI Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. **(Honorable Mention Award)**
+**Naoki Kimura**, Jun Rekimoto. "[ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://doi.org/10.1145/3173574.3174001)." *CHI 2018*, 2018, pp. 1-10. **(Honorable Mention Award)**
 
 ---
 
