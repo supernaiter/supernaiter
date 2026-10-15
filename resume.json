@@ -185,82 +185,187 @@
       "status": "accepted"
     },
     {
-      "name": "3-KEY-INPUT: Exploring the Theoretical Minimum Keys for Text Entry",
-      "publisher": "IEEE ICASSP 2026",
+      "name": "3-Key-Input: Exploring the Theoretical Minimum Keys for Text Entry",
+      "publisher": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
       "releaseDate": "2026",
-      "summary": "Systematically evaluated text input systems finding that 3 keys with GPT-4o achieve optimal balance."
+      "summary": "Authors: Naoki Kimura.",
+      "authors": [
+        "Naoki Kimura"
+      ],
+      "url": "https://doi.org/10.1109/icassp55912.2026.11461550",
+      "pages": "19392-19396"
     },
     {
       "name": "HMDspeller: Fast and Hands-free Text Entry System for Head Mount Displays using Silent Spelling Recognition",
-      "publisher": "CHI EA '23 (CHI 2023)",
+      "publisher": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
       "releaseDate": "2023",
-      "summary": "Authors: Kei Asano, Naoki Kimura, Jun Rekimoto. Hamburg, Germany."
+      "summary": "Authors: Kei Asano, Naoki Kimura, Jun Rekimoto.",
+      "authors": [
+        "Kei Asano",
+        "Naoki Kimura",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3544549.3583910",
+      "pages": "1-4"
     },
     {
       "name": "Self-Supervised Approach for Few-shot Hand Gesture Recognition",
-      "publisher": "Adjunct Proceedings of UIST 2022",
+      "publisher": "Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology",
       "releaseDate": "2022",
-      "summary": "Author: Naoki Kimura. 35th Annual ACM Symposium on User Interface Software and Technology."
+      "summary": "Authors: Naoki Kimura.",
+      "authors": [
+        "Naoki Kimura"
+      ],
+      "url": "https://doi.org/10.1145/3526114.3558707",
+      "pages": "1-4"
     },
     {
       "name": "SSR7000: A Synchronized Corpus of Ultrasound Tongue Imaging for End-to-End Silent Speech Recognition",
-      "publisher": "LREC 2022",
+      "publisher": "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
       "releaseDate": "2022",
-      "summary": "Authors: Naoki Kimura, Zixiong Su, Takaaki Saeki, Jun Rekimoto. 12th Conference on Language Resources and Evaluation."
+      "summary": "Authors: Naoki Kimura, Zixiong Su, Takaaki Saeki, Jun Rekimoto.",
+      "authors": [
+        "Naoki Kimura",
+        "Zixiong Su",
+        "Takaaki Saeki",
+        "Jun Rekimoto"
+      ],
+      "url": "https://aclanthology.org/2022.lrec-1.741/",
+      "pages": "6866-6873"
     },
     {
       "name": "SilentSpeller: Towards mobile, hands-free, silent speech text entry using electropalatography",
-      "publisher": "ACM CHI 2022",
+      "publisher": "CHI Conference on Human Factors in Computing Systems",
       "releaseDate": "2022",
-      "summary": "Authors: Naoki Kimura, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Alex Olwal, Jun Rekimoto, Thad Starner. New Orleans, USA."
+      "summary": "Authors: Naoki Kimura, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Zixiong Su, Alex Olwal, Jun Rekimoto, Thad Starner.",
+      "authors": [
+        "Naoki Kimura",
+        "Tan Gemicioglu",
+        "Jonathan Womack",
+        "Richard Li",
+        "Yuhui Zhao",
+        "Abdelkareem Bedri",
+        "Zixiong Su",
+        "Alex Olwal",
+        "Jun Rekimoto",
+        "Thad Starner"
+      ],
+      "url": "https://doi.org/10.1145/3491102.3502015",
+      "pages": "1-19"
     },
     {
-      "name": "Gaze+Lip: Rapid, Expressive interactions Combining Gaze Input and Silent Speech Commands for Hands-free Smart TV Control",
-      "publisher": "ETRA 2021",
+      "name": "Gaze+Lip: Rapid, Precise and Expressive Interactions Combining Gaze Input and Silent Speech Commands for Hands-free Smart TV Control",
+      "publisher": "ACM Symposium on Eye Tracking Research and Applications",
       "releaseDate": "2021",
-      "summary": "Authors: Zixiong Su, Naoki Kimura, Xinlei Zhang, Jun Rekimoto. Online, Germany."
+      "summary": "Authors: Zixiong Su, Xinlei Zhang, Naoki Kimura, Jun Rekimoto.",
+      "authors": [
+        "Zixiong Su",
+        "Xinlei Zhang",
+        "Naoki Kimura",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3448018.3458011",
+      "pages": "1-6"
     },
     {
       "name": "Mobile, Hands-free, Silent Speech Texting Using SilentSpeller",
-      "publisher": "ACM CHI 2021 (Interactivity)",
+      "publisher": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
       "releaseDate": "2021",
-      "summary": "Authors: Naoki Kimura, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Alex Olwal, Jun Rekimoto, Thad Starner. Yokohama, Japan."
+      "summary": "Authors: Naoki Kimura, Tan Gemicioglu, Jonathan Womack, Richard Li, Yuhui Zhao, Abdelkareem Bedri, Alex Olwal, Jun Rekimoto, Thad Starner.",
+      "authors": [
+        "Naoki Kimura",
+        "Tan Gemicioglu",
+        "Jonathan Womack",
+        "Richard Li",
+        "Yuhui Zhao",
+        "Abdelkareem Bedri",
+        "Alex Olwal",
+        "Jun Rekimoto",
+        "Thad Starner"
+      ],
+      "url": "https://doi.org/10.1145/3411763.3451552",
+      "pages": "1-5"
     },
     {
       "name": "SonoSpace: Visual Feedback of Timbre with Unsupervised Learning",
-      "publisher": "ACM MM 2020",
+      "publisher": "Proceedings of the 28th ACM International Conference on Multimedia",
       "releaseDate": "2020",
-      "summary": "Authors: Naoki Kimura, Keisuke Shiro, Yota Takakura, Hiromi Nakamura, Jun Rekimoto. Seattle, USA."
+      "summary": "Authors: Naoki Kimura, Keisuke Shiro, Yota Takakura, Hiromi Nakamura, Jun Rekimoto.",
+      "authors": [
+        "Naoki Kimura",
+        "Keisuke Shiro",
+        "Yota Takakura",
+        "Hiromi Nakamura",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3394171.3413542",
+      "pages": "367-374"
     },
     {
       "name": "End-to-End Deep Learning Speech Recognition Model for Silent Speech Challenge",
-      "publisher": "INTERSPEECH 2020 (Show & Tell)",
+      "publisher": "Proc. Interspeech 2020",
       "releaseDate": "2020",
-      "summary": "Authors: Naoki Kimura, Zixiong Su, Takaaki Saeki. Shanghai, China."
+      "summary": "Authors: Naoki Kimura, Zixiong Su, Takaaki Saeki.",
+      "authors": [
+        "Naoki Kimura",
+        "Zixiong Su",
+        "Takaaki Saeki"
+      ],
+      "url": "https://www.isca-archive.org/interspeech_2020/kimura20_interspeech.html",
+      "pages": "1025-1026"
     },
     {
-      "name": "TieLent: A Casual Neck-Mounted Lip Movement Capturing Device for Silent Speech Interaction",
-      "publisher": "AVI 2020",
+      "name": "TieLent: A Casual Neck-Mounted Mouth Capturing Device for Silent Speech Interaction",
+      "publisher": "Proceedings of the International Conference on Advanced Visual Interfaces",
       "releaseDate": "2020",
-      "summary": "Authors: Naoki Kimura, Kentaro Hayashi, Jun Rekimoto. International Conference on Advanced Visual Interfaces, Italy."
+      "summary": "Authors: Naoki Kimura, Kentaro Hayashi, Jun Rekimoto.",
+      "authors": [
+        "Naoki Kimura",
+        "Kentaro Hayashi",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3399715.3399852",
+      "pages": "1-8"
     },
     {
       "name": "SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks",
-      "publisher": "ACM CHI 2019",
+      "publisher": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
       "releaseDate": "2019",
-      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto. Honorable Mention Award. Glasgow, UK."
+      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto. Honorable Mention Award.",
+      "authors": [
+        "Naoki Kimura",
+        "Michinari Kono",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3290605.3300376",
+      "pages": "1-11"
     },
     {
-      "name": "Deep Dive: Deep-Neural-Network-Based Video Extension for Immersive Head-Mounted Display Experiences",
-      "publisher": "ACM PerDis 2019",
+      "name": "Deep dive: deep-neural-network-based video extension for immersive head-mounted display experiences",
+      "publisher": "Proceedings of the 8th ACM International Symposium on Pervasive Displays",
       "releaseDate": "2019",
-      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto. Palermo, Italy."
+      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto.",
+      "authors": [
+        "Naoki Kimura",
+        "Michinari Kono",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3321335.3324932",
+      "pages": "1-7"
     },
     {
       "name": "Eliciting Pen-Holding Postures for General Input with Suitability for EMG Armband Detection",
-      "publisher": "ACM ISS 2019",
+      "publisher": "Proceedings of the 2019 ACM International Conference on Interactive Surfaces and Spaces",
       "releaseDate": "2019",
-      "summary": "Authors: Fabrice Matulic, Brian Vogel, Naoki Kimura, Daniel Vogel. Daejeon, Korea."
+      "summary": "Authors: Fabrice Matulic, Brian Vogel, Naoki Kimura, Daniel Vogel.",
+      "authors": [
+        "Fabrice Matulic",
+        "Brian Vogel",
+        "Naoki Kimura",
+        "Daniel Vogel"
+      ],
+      "url": "https://doi.org/10.1145/3343055.3359720",
+      "pages": "89-100"
     },
     {
       "name": "Expression effects of public service advertisements on intentions to act for global warming",
@@ -269,16 +374,29 @@
       "summary": "Authors: Kiyo Kurisu, Naoki Kimura, Keisuke Hanaki. Volume 218, Pages 1045-1054."
     },
     {
-      "name": "ExtVision: Augmentation of Visual Experiences with Generation of Context Images for Peripheral Vision Using Deep Neural Network",
-      "publisher": "ACM CHI 2018",
+      "name": "ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network",
+      "publisher": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
       "releaseDate": "2018",
-      "summary": "Authors: Naoki Kimura, Jun Rekimoto. Honorable Mention Award. Montreal, Canada."
+      "summary": "Authors: Naoki Kimura, Jun Rekimoto. Honorable Mention Award.",
+      "authors": [
+        "Naoki Kimura",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3173574.3174001",
+      "pages": "1-10"
     },
     {
-      "name": "Using Deep-Neural-Network to Extend Videos for Head-Mounted Display Experiences",
-      "publisher": "VRST 2018",
+      "name": "Using deep-neural-network to extend videos for head-mounted display experiences",
+      "publisher": "Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology",
       "releaseDate": "2018",
-      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto. Tokyo, Japan."
+      "summary": "Authors: Naoki Kimura, Michinari Kono, Jun Rekimoto.",
+      "authors": [
+        "Naoki Kimura",
+        "Michinari Kono",
+        "Jun Rekimoto"
+      ],
+      "url": "https://doi.org/10.1145/3281505.3283398",
+      "pages": "1-2"
     },
     {
       "name": "Peripheral Image Generation for Peripheral Projection System Using pix2pix",

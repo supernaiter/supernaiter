@@ -1,0 +1,244 @@
+{
+  "checkedOn": "2026-10-15",
+  "scope": "15 existing published bibliographic records; not a full CV or research-claims audit. SLT acceptance and the existing Journal of Cleaner Production / WISS 2017 records are outside this pass.",
+  "records": [
+    {
+      "title": "3-Key-Input: Exploring the Theoretical Minimum Keys for Text Entry",
+      "authors": [
+        "Naoki Kimura"
+      ],
+      "venue": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "year": 2026,
+      "pages": "19392-19396",
+      "url": "https://doi.org/10.1109/icassp55912.2026.11461550",
+      "metadataSource": "https://api.crossref.org/works/10.1109/icassp55912.2026.11461550",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "1d521cde5461e6f0bd03a59acabb414ae6615c372f86b4063d1af74aa5e0abf8"
+    },
+    {
+      "title": "HMDspeller: Fast and Hands-free Text Entry System for Head Mount Displays using Silent Spelling Recognition",
+      "authors": [
+        "Kei Asano",
+        "Naoki Kimura",
+        "Jun Rekimoto"
+      ],
+      "venue": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "year": 2023,
+      "pages": "1-4",
+      "url": "https://doi.org/10.1145/3544549.3583910",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3544549.3583910",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "b150e6f7f2d44fe6726df5a61b72ee416dd71b7b82e203cf8c4f5b79af55726e"
+    },
+    {
+      "title": "SSR7000: A Synchronized Corpus of Ultrasound Tongue Imaging for End-to-End Silent Speech Recognition",
+      "authors": [
+        "Naoki Kimura",
+        "Zixiong Su",
+        "Takaaki Saeki",
+        "Jun Rekimoto"
+      ],
+      "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+      "year": 2022,
+      "pages": "6866-6873",
+      "url": "https://aclanthology.org/2022.lrec-1.741/",
+      "metadataSource": "https://aclanthology.org/2022.lrec-1.741/",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "5a433cdd7d404ab93dd3b759dcb71ec442a24c6c2f339a24ef1f0f4559c4b637"
+    },
+    {
+      "title": "Self-Supervised Approach for Few-shot Hand Gesture Recognition",
+      "authors": [
+        "Naoki Kimura"
+      ],
+      "venue": "Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology",
+      "year": 2022,
+      "pages": "1-4",
+      "url": "https://doi.org/10.1145/3526114.3558707",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3526114.3558707",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "1b04eb1a37f5a94c68fe07bcf89ca7e28b8234044ac0b6a6494e8f641adcf782"
+    },
+    {
+      "title": "SilentSpeller: Towards mobile, hands-free, silent speech text entry using electropalatography",
+      "authors": [
+        "Naoki Kimura",
+        "Tan Gemicioglu",
+        "Jonathan Womack",
+        "Richard Li",
+        "Yuhui Zhao",
+        "Abdelkareem Bedri",
+        "Zixiong Su",
+        "Alex Olwal",
+        "Jun Rekimoto",
+        "Thad Starner"
+      ],
+      "venue": "CHI Conference on Human Factors in Computing Systems",
+      "year": 2022,
+      "pages": "1-19",
+      "url": "https://doi.org/10.1145/3491102.3502015",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3491102.3502015",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "ce48cd4ca2e58fbbae1c081d5ea8730723219bb47220e257a20b1e5b3ccba84c"
+    },
+    {
+      "title": "Gaze+Lip: Rapid, Precise and Expressive Interactions Combining Gaze Input and Silent Speech Commands for Hands-free Smart TV Control",
+      "authors": [
+        "Zixiong Su",
+        "Xinlei Zhang",
+        "Naoki Kimura",
+        "Jun Rekimoto"
+      ],
+      "venue": "ACM Symposium on Eye Tracking Research and Applications",
+      "year": 2021,
+      "pages": "1-6",
+      "url": "https://doi.org/10.1145/3448018.3458011",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3448018.3458011",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "0b6ea5a4c80adc68ac6a35b85479948a54b6b38d533760a5758f478b27b55c7a"
+    },
+    {
+      "title": "Mobile, Hands-free, Silent Speech Texting Using SilentSpeller",
+      "authors": [
+        "Naoki Kimura",
+        "Tan Gemicioglu",
+        "Jonathan Womack",
+        "Richard Li",
+        "Yuhui Zhao",
+        "Abdelkareem Bedri",
+        "Alex Olwal",
+        "Jun Rekimoto",
+        "Thad Starner"
+      ],
+      "venue": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+      "year": 2021,
+      "pages": "1-5",
+      "url": "https://doi.org/10.1145/3411763.3451552",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3411763.3451552",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "6b2c6ab67c8e2bc3a342cd498cf4455b0e7e8472c8f5b432292c263f61b784e5"
+    },
+    {
+      "title": "End-to-End Deep Learning Speech Recognition Model for Silent Speech Challenge",
+      "authors": [
+        "Naoki Kimura",
+        "Zixiong Su",
+        "Takaaki Saeki"
+      ],
+      "venue": "Proc. Interspeech 2020",
+      "year": 2020,
+      "pages": "1025-1026",
+      "url": "https://www.isca-archive.org/interspeech_2020/kimura20_interspeech.html",
+      "metadataSource": "https://www.isca-archive.org/interspeech_2020/kimura20_interspeech.html",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "fc065bf73e848d086846cbb101647c566ca16e64bf17801c70baac9f40c01203"
+    },
+    {
+      "title": "SonoSpace: Visual Feedback of Timbre with Unsupervised Learning",
+      "authors": [
+        "Naoki Kimura",
+        "Keisuke Shiro",
+        "Yota Takakura",
+        "Hiromi Nakamura",
+        "Jun Rekimoto"
+      ],
+      "venue": "Proceedings of the 28th ACM International Conference on Multimedia",
+      "year": 2020,
+      "pages": "367-374",
+      "url": "https://doi.org/10.1145/3394171.3413542",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3394171.3413542",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "54f2e80d079d3c0b29248d31559a3abe9f52454fc640a1f2c8c2aca3e4842ed7"
+    },
+    {
+      "title": "TieLent: A Casual Neck-Mounted Mouth Capturing Device for Silent Speech Interaction",
+      "authors": [
+        "Naoki Kimura",
+        "Kentaro Hayashi",
+        "Jun Rekimoto"
+      ],
+      "venue": "Proceedings of the International Conference on Advanced Visual Interfaces",
+      "year": 2020,
+      "pages": "1-8",
+      "url": "https://doi.org/10.1145/3399715.3399852",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3399715.3399852",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "49900352ad4176c928341615a3cca04cf7739eb34b761875847407595edb4d34"
+    },
+    {
+      "title": "Deep dive: deep-neural-network-based video extension for immersive head-mounted display experiences",
+      "authors": [
+        "Naoki Kimura",
+        "Michinari Kono",
+        "Jun Rekimoto"
+      ],
+      "venue": "Proceedings of the 8th ACM International Symposium on Pervasive Displays",
+      "year": 2019,
+      "pages": "1-7",
+      "url": "https://doi.org/10.1145/3321335.3324932",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3321335.3324932",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "7142cd37557542c1ee5b9d382ab929409a2c2135efbcb83330160e286ada31da"
+    },
+    {
+      "title": "Eliciting Pen-Holding Postures for General Input with Suitability for EMG Armband Detection",
+      "authors": [
+        "Fabrice Matulic",
+        "Brian Vogel",
+        "Naoki Kimura",
+        "Daniel Vogel"
+      ],
+      "venue": "Proceedings of the 2019 ACM International Conference on Interactive Surfaces and Spaces",
+      "year": 2019,
+      "pages": "89-100",
+      "url": "https://doi.org/10.1145/3343055.3359720",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3343055.3359720",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "d26400be0fadccd004243e475017fff18837373a0e97ccaa8805e0b15d0296ab"
+    },
+    {
+      "title": "SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks",
+      "authors": [
+        "Naoki Kimura",
+        "Michinari Kono",
+        "Jun Rekimoto"
+      ],
+      "venue": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+      "year": 2019,
+      "pages": "1-11",
+      "url": "https://doi.org/10.1145/3290605.3300376",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3290605.3300376",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "b9d8b8b74a7a35abd42da6e7c4dc2c18b4a4497a286dab559d84eddab82ef1c2"
+    },
+    {
+      "title": "ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network",
+      "authors": [
+        "Naoki Kimura",
+        "Jun Rekimoto"
+      ],
+      "venue": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+      "year": 2018,
+      "pages": "1-10",
+      "url": "https://doi.org/10.1145/3173574.3174001",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3173574.3174001",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "d4baa170877ee46365e677713233dad8d9a3c5fee41a0ec944d5f4b71b8b813d"
+    },
+    {
+      "title": "Using deep-neural-network to extend videos for head-mounted display experiences",
+      "authors": [
+        "Naoki Kimura",
+        "Michinari Kono",
+        "Jun Rekimoto"
+      ],
+      "venue": "Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology",
+      "year": 2018,
+      "pages": "1-2",
+      "url": "https://doi.org/10.1145/3281505.3283398",
+      "metadataSource": "https://api.crossref.org/works/10.1145/3281505.3283398",
+      "retrievedOn": "2026-10-15",
+      "sourceSha256": "8e71bd7f9812d491c515968c22216f50f0dede48173d6f81cc7cdf63ba407daa"
+    }
+  ]
+}

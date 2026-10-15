@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+### 2026-10-15 — Publication bibliography corrections
+
+- Corrected the eight published entries in the README selection and 15 existing published entries in `resume.json` against publisher-deposited Crossref metadata, ACL Anthology, and ISCA Archive. Added primary-source links and complete author lists in their published order.
+- Fixed mismatched titles and authors for HMDspeller, the UIST 2022 hand-gesture paper, SilentSpeller, and the INTERSPEECH 2020 paper; distinguished CHI Extended Abstracts and UIST Adjunct proceedings from full-paper proceedings. Corrected the omitted SilentSpeller coauthor, Gaze+Lip author order, and other title/venue details.
+- Regenerated `CV.pdf` through the unchanged `make pdf` command. `docs/publication-sources-2026-10-15.json` records the 15 checked bibliographic records and their sources.
+- Kept the accepted SLT 2026 entry unchanged. No new publication, acceptance, result, date precision, or authorship claim was inferred. The README still selects nine items; the JSON still has 18.
+- This is a bibliography-only correction, not a full CV audit. Non-publication sections and the existing Journal of Cleaner Production / WISS 2017 entries were preserved and were not validated in this pass. Previously stated awards were retained, not newly certified by bibliographic metadata.
+
 ### 2026-09-16 — SLT 2026 acceptance
 
 - Added Naoki Kimura's "Rank-Residual Coding with a Shared Decoder: Lossless Low-Bit Communication for Ambiguous-Keyboard AAC" to README.md, resume.json, and the regenerated CV.pdf as accepted at IEEE SLT 2026.
