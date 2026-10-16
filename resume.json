@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Naoki Kimura",
-    "label": "Ph.D. Candidate & Chief Researcher",
+    "label": "Ph.D. in Information Studies | Chief Research Scientist",
     "email": "naoki.kimura.ac@gmail.com",
     "url": "https://nao-ki-mura.com",
-    "summary": "Chief Researcher at LY Research and Ph.D. Candidate at The University of Tokyo. Specializing in Human-Computer Interaction (HCI), Silent Speech Interfaces, and AI-driven input methods. Recipient of Google PhD Fellowship and Microsoft Research Asia Fellowship.",
+    "summary": "Chief Research Scientist at LY Corporation. Received a Ph.D. in Information Studies from The University of Tokyo. Research focuses on human-computer interaction, silent speech interfaces, and wearable text entry. Recipient of Google PhD Fellowship and Microsoft Research Asia Fellowship.",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -20,17 +20,17 @@
   },
   "work": [
     {
-      "name": "LY Research",
-      "position": "Chief Researcher",
-      "startDate": "2023-04-01",
-      "summary": "Leading advanced research in HCI and AI. (LY Corporation Research, formerly Yahoo! JAPAN Research)"
+      "name": "LY Corporation",
+      "position": "Chief Research Scientist",
+      "startDate": "2024-10",
+      "summary": "Human-computer interaction research."
     },
     {
       "name": "Yahoo! JAPAN Research",
       "position": "Chief Researcher",
-      "startDate": "2023-01-01",
-      "endDate": "2023-03-31",
-      "summary": "Chief Researcher before merger into LY Corporation."
+      "startDate": "2023-04",
+      "endDate": "2024-09",
+      "summary": "Chief Researcher at Yahoo! JAPAN Research."
     },
     {
       "name": "Google Research",
@@ -70,21 +70,22 @@
   "education": [
     {
       "institution": "The University of Tokyo",
-      "area": "Human-Computer Interaction",
-      "studyType": "Ph.D. Candidate",
-      "startDate": "2019-04-01",
-      "endDate": "2025-03-31",
+      "area": "Information Studies",
+      "studyType": "Ph.D.",
+      "startDate": "2019",
+      "endDate": "2025",
       "advisor": "Prof. Jun Rekimoto",
       "summary": "Graduate School of Interdisciplinary Information Studies"
     },
     {
       "institution": "The University of Tokyo",
-      "area": "Applied Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2013-04-01",
-      "endDate": "2019-03-31",
+      "area": "Information Studies (Applied Computer Science)",
+      "studyType": "Master’s degree",
+      "startDate": "2017-04",
+      "endDate": "2019-03",
       "advisor": "Prof. Jun Rekimoto",
-      "summary": "Master's degree with the highest distinction"
+      "summary": "GSII master’s graduate representative and recipient of the Dean’s Award for the master’s thesis.",
+      "url": "https://www.iii.u-tokyo.ac.jp/research/190412gradceremony"
     },
     {
       "institution": "The University of Tokyo",
@@ -122,16 +123,39 @@
     {
       "title": "JST ACT-X: Frontier of mathematics and information science",
       "awarder": "JST",
-      "startDate": "2019",
-      "endDate": "2022",
-      "summary": "$40,000"
+      "startDate": "2019-10",
+      "endDate": "2022-03",
+      "summary": "Selected researcher, JPMJAX190B. Silent speech recognition using ultrasound imaging and deep learning. No funding amount asserted.",
+      "grantNumber": "JPMJAX190B",
+      "url": "https://www.jst.go.jp/kisoken/act-x/project/111F001/111F001_2019.html",
+      "reportUrl": "https://www.jst.go.jp/kisoken/act-x/evaluation/s-houkoku/r03/JST_111F001_19206671_2021_Kimura_PER.pdf"
     },
     {
-      "title": "JSPS Research Fellowships for Young Scientists (DC2)",
+      "title": "JSPS DC2 / KAKENHI Grant-in-Aid for JSPS Fellows",
       "awarder": "JSPS",
-      "startDate": "2020",
-      "endDate": "2022",
-      "summary": "$70,000"
+      "startDate": "2020-04-24",
+      "endDate": "2022-03-31",
+      "summary": "Principal investigator, 20J15015. JPY 1,900,000 in direct research funding, separate from the fellowship stipend.",
+      "grantNumber": "20J15015",
+      "role": "Principal Investigator",
+      "amount": 1900000,
+      "currency": "JPY",
+      "amountScope": "Direct research costs; excludes fellowship stipend",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15015/"
+    },
+    {
+      "title": "IPA MITOU Advanced — Joint Selection",
+      "awarder": "Information-technology Promotion Agency, Japan (IPA)",
+      "year": 2024,
+      "role": "Jointly selected project member",
+      "collaborators": [
+        "Yuta Matsunaga"
+      ],
+      "summary": "An interface for interacting with large language models whenever needed. JPY 15,040,000 is the total project contract excluding tax, not an individual award amount.",
+      "amount": 15040000,
+      "currency": "JPY",
+      "amountScope": "Total joint-project contract, excluding tax; not individual funding",
+      "url": "https://www.ipa.go.jp/jinzai/mitou/advanced/2024/gaiyou-is-1.html"
     }
   ],
   "scholarships": [

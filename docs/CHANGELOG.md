@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+### 2026-10-16 — Degree, current appointments, and research support
+
+- Replaced stale Ph.D. Candidate labels with the completed Information Studies degree, retaining the author-confirmed 2019–2025 period without invented day precision. Matched the master's period and the two latest appointments to the current author-maintained LinkedIn profile; replaced ambiguous "Highest Distinction" wording with the university's documented GSII graduate-representative role and Dean's Award.
+- Replaced unexplained dollar totals for ACT-X/DC2 with official project identifiers, periods, sources, and the KAKEN direct-research-cost amount. Added the already-established MITOU Advanced joint project, explicitly distinguishing its tax-exclusive total contract from individual funding. ACT-X has no asserted funding amount.
+- Regenerated `CV.pdf` using the unchanged `make pdf` command. Preserved all publication records and the previous bibliography source ledger.
+- `docs/credential-funding-sources-2026-10-16.json` separates official institutional evidence from author-reported degree/appointment information. Other historical work, the bachelor's entry, scholarships, references, and the two previously unverified publications remain outside this pass; this is not a complete CV audit.
+
 ### 2026-10-15 — Publication bibliography corrections
 
 - Corrected the eight published entries in the README selection and 15 existing published entries in `resume.json` against publisher-deposited Crossref metadata, ACL Anthology, and ISCA Archive. Added primary-source links and complete author lists in their published order.
