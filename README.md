@@ -1,7 +1,7 @@
 # Naoki Kimura, Ph.D.
 
 **Chief Research Scientist, LY Corporation**\
-[nao-ki-mura.com](https://nao-ki-mura.com/) | [naoki.kimura.ac@gmail.com](mailto:naoki.kimura.ac@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=W7Vvs7CzuaYC&hl=en)
+[nao-ki-mura.com](https://nao-ki-mura.com/) | [naoki.kimura.ac@gmail.com](mailto:naoki.kimura.ac@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=W7Vvs7CzuaYC&hl=en) | [ORCID](https://orcid.org/0000-0001-9167-1923) | [LinkedIn](https://www.linkedin.com/in/naoki-kimura-hci/)
 
 ## 🏆 Selected Honors & Awards
 
