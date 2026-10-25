@@ -3,7 +3,7 @@
 **Chief Research Scientist, LY Corporation**\
 [nao-ki-mura.com](https://nao-ki-mura.com/) | [naoki.kimura.ac@gmail.com](mailto:naoki.kimura.ac@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=W7Vvs7CzuaYC&hl=en) | [ORCID](https://orcid.org/0000-0001-9167-1923) | [LinkedIn](https://www.linkedin.com/in/naoki-kimura-hci/)
 
-I build **silent speech interfaces** and **hands-free, reduced-key text entry** for wearables (SottoVoce, SilentSpeller, NasoVoce).
+I build **silent speech interfaces** and **hands-free, reduced-key text entry** for wearables (SottoVoce, SilentSpeller).
 I maintain the **[Silent Speech Interface Review](https://github.com/supernaiter/silent-speech-review)**: 132 SSI papers compared by vocabulary, speaker dependence, cross-day testing and online use.
 
 ## 🏆 Selected Honors & Awards
